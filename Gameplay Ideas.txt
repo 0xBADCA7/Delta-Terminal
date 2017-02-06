@@ -1,0 +1,193 @@
+Hacking game
+
+
+Types of system:
+
+-File Server
+
+-Personal PC, useless except for botnet?
+
+-Bank
+
+-Mainframe
+
+-CCTV network
+
+
+Money
+-Earned by doing jobs
+-Plant software that transfers money over time, more advanced versions clear their tracks. More plants = more money
+-Perpetual/ infinite upgrades to tackle bigger and bigger networks, more and more money to upgrade.
+
+-Hosting fees?
+
+-Hire hackers to DDOS if your net isn't powerful enough.
+
+-Bribe out of trouble, clear criminal record.
+-Hacker central hub, hosts reputation listings, jobs. Post your own jobs, costs money. Hack the hub to boost your rep?
+-Upgrade and buy software, advanced = more dosh
+-Set up bogus accounts, false leads.
+-Offshore account / bonds / interest rates. Untouchable for periods of time
+-Loans, pay back or repossess system
+-Credit rating
+-Reputation
+
+
+Upgrades:
+-Network card faster dial in and bounce, bounce takes time? Reduced by upgrades
+-CPU, crack speed
+-GPU - changes UI?
+-HDD, software / file space
+-Security features, firewall, encryption, prevent anti hackers.
+
+-IP scrambler, harder to trace, reduces trace by % every {timespan}
+-Connection line? Optic fibre, quantum light tunnelling, laptic optics, improve speed / other facet
+
+Central DNS Server, hosts all system IP's, have to connect to get target IP each time. Then download software that does it for you when you can afford it.
+
+
+Internet dial someone's mobile to get voice samples?
+
+
+
+Threaded menu?
+
+
+-Moveable Windows vs Static Interface vs Step By Step Execution
+
+-Disabled securities come back online randomly?
+-Systems can retaliate?
+
+-Software
+
+-CPU usage
+
+-Trace
+
+-Contacts
+
+-Hacking Console
+
+-Message log
+
+-Voice modulator
+
+
+-Game Time: FFWD, Pause etc, frame rate multiplier
+
+
+
+Mission Generator
+
+-CPU Speed : Trace speed reliant
+
+-Securities: firewall, encryption cypher, voice encryption, admin monitor, antivirus, packet searcher
+
+-Steal Proprietary software, possibility to get rare copy for yourself?
+
+-Crack software for pirates
+
+
+-Secure a system from hackers
+
+-Retrieve password / file / user list
+
+-Plant virus / botnet
+
+-Remove a virus
+
+-Bring down a system (Brute force)
+
+
+-Clear activity logs/ remove evidence
+
+-Trace a hacker
+
+-Randomly find helpful software on other hacker systems?
+
+-Hack the hacker /
+multiplayer hacking: DDOS? More powerful hacker friends can aid missions?
+
+
+
+Cracking software -find the loophole. -Symbol in scrolling code, isolate it? X 
+ 
+{X}
+
+-Security whack a mole?
+
+
+
+Password Breaker
+
+
+-CPU power reliant software, dictionary
+
+
+-hack vs brute force,
+
+
+-possible to use botnets to speed up hack / prehack
+
+
+
+
+Pin Code Placement (Correct place, wrong place, not in sequence)
+
+
+
+Voice Reproducer, manual and auto versions, manual: slider to match wave
+
+
+
+Encryption cypher
+
+-Random alphanumerics changed to 0 / '-'
+
+
+
+Auto bounce / Save / Load connections
+
+
+
+Captcha Easter egg? Prove you're not a robot, speed match digits as they flash up
+
+
+
+Firewall mini game: button mash to push though,
+
+
+
+
+Hack CCTV loop
+
+
+
+Antivirus Minigame -Space mash force your way through / dodge the antivirus / Ricochet
+
+
+
+Network bounce background to menu
+
+
+
+Lambda functions form software?
+
+Scripts. User can write their own software?
+
+Terminal OS on remote PC's?
+
+
+
+Software can be bought and found on remote PC's, rare/custom versions of software can only be found?
+
+
+
+Various viruses:
+
+-Shutdown a system
+
+-Destroy a system
+
+-Botnet
+</div></div>

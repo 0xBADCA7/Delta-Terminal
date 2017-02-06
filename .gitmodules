@@ -1,0 +1,6 @@
+[submodule "SFML-2.4.1"]
+	path = sfml-2.4.1
+	url = https://sub_xaero@bitbucket.org/incrediblytheta/sfml-2.4.1.git
+[submodule "Cereal-1.2.1"]
+	path = Cereal-1.2.1
+	url = https://sub_xaero@bitbucket.org/incrediblytheta/cereal-1.2.1.git
