@@ -20,8 +20,7 @@ int pauseMenu() {
 	menu.setTitle("Pause Menu");
 
 	menu.bindEvent(sf::Event::KeyPressed, [&] { if (Event.key.code == sf::Keyboard::Key::Escape) throw 0; });
-	menu.newButton("Resume Game").setFillColour(sf::Color::Transparent).setTextColour(
-			sf::Color::White) = [] { throw 0; };
+	menu.newButton("Resume Game").setFillColour(ButtonFillColour) = [] { throw 0; };
 	menu.newButton("Options").mimicStyles(menu[0]) = [] { optionsMenu(); };
 	menu.newButton("Credits").mimicStyles(menu[0]) = [] { creditsMenu(); };
 	menu.newButton("Quit to Main Menu").mimicStyles(menu[0]) = [] {

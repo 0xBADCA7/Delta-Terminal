@@ -16,10 +16,7 @@ int mainMenu() {
 			}
 	);
 	menu.newButton(fileExists("Save/GameData/Core") ? "Resume Game" : "New Game")
-			.setFillColour(ButtonFillColour)
-			.setOutlineThickness(2)
-			.setOutlineColour(sf::Color::Black)
-			.setTextColour(sf::Color::White) =
+			.setFillColour(ButtonFillColour) =
 			[&] {
 				menu.subMenuEntered = true;
 				game();

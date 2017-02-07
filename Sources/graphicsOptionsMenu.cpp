@@ -34,12 +34,10 @@ int graphicsOptionsMenu() {
 			i++;
 		aspectRatio = " (" + toString(floor(dec * i)) + ":" + toString(i) + ")";
 	}
-	menu
-			.newButton("Resolution : " +
-			           toString(settings.graphics.VideoMode.width) + "x" +
-			           toString(settings.graphics.VideoMode.height) + aspectRatio)
-			.setFillColour(sf::Color::Transparent)
-			.setTextColour(sf::Color::White) =
+	menu.newButton("Resolution : " +
+	               toString(settings.graphics.VideoMode.width) + "x" +
+	               toString(settings.graphics.VideoMode.height) + aspectRatio)
+			.setFillColour(ButtonFillColour) =
 			[&] {
 				if (Event.mouseButton.button == sf::Mouse::Right) {
 					if (currentVideoMode < sf::VideoMode::getFullscreenModes().size() - 1)

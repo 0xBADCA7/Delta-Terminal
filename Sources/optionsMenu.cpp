@@ -24,7 +24,7 @@ int optionsMenu() {
 	sf::RectangleShape musicVolumeBar(sf::Vector2f(400, 10));
 	sf::RectangleShape musicVolumeSlider(sf::Vector2f(24, 30));
 
-	menu.newButton("Graphics Options").setFillColour(sf::Color::Transparent).setTextColour(sf::Color::White) =
+	menu.newButton("Graphics Options").setFillColour(ButtonFillColour) =
 			[&] {
 				menu.subMenuEntered = true;
 				graphicsOptionsMenu();

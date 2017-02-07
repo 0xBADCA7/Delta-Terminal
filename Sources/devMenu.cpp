@@ -33,7 +33,7 @@ int devMenu () {
 
 	int option = Options::GeneratePerson;
 
-	menu.newButton ("Generate Person", 700, 300).setFillColour (sf::Color::Transparent).setTextColour (sf::Color::White);
+	menu.newButton ("Generate Person", 700, 300).setFillColour (ButtonFillColour);
 	menu.newButton ("<", menu[Buttons::ActionButton].getPosition().x - 150, 300).mimicStyles (menu[Buttons::ActionButton]) = [&] {
 		if (option > 1)
 			option--;

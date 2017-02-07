@@ -14,7 +14,7 @@ sf::View View;
 sf::Clock Framerate;
 sf::Font Font;
 
-sf::Color ButtonFillColour(20, 20, 255, 50);
+sf::Color ButtonFillColour(sf::Color::Transparent);
 sf::Color ButtonHoverOutlineColour(sf::Color::Green);
 
 sf::Sprite Background;

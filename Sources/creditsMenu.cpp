@@ -7,7 +7,7 @@ int creditsMenu() {
 	Menu menu;
 	menu.setTitle("Credits");
 	menu.newButton("Back", 50, 1080 - (Font.getLineSpacing(MENU_FONT_SIZE * 2 + 20)))
-			.setFillColour(sf::Color::Transparent).setTextColour(sf::Color::White) = [] { throw (0); };
+			.setFillColour(ButtonFillColour) = [] { throw (0); };
 
 	vector<sf::Text> Credits;
 	{
