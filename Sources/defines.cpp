@@ -2,8 +2,8 @@
 #include "defines.hpp"
 #include "game.hpp"
 
-void *_Unwind_Resume;
-void *__gxx_personality_v0;
+// void *_Unwind_Resume;
+// void *__gxx_personality_v0;
 
 mutex mtx;
 

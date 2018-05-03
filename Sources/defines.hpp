@@ -20,8 +20,8 @@
 #include "settings.hpp"
 #include <mutex>
 
-extern void *_Unwind_Resume;
-extern void *__gxx_personality_v0;
+// extern void *_Unwind_Resume;
+// extern void *__gxx_personality_v0;
 
 extern mutex mtx;
 
