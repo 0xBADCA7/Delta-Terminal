@@ -11,6 +11,8 @@ UITaskBar::UITaskBar() {
 	UIThemeSecondaryColour = sf::Color::Green;
 	Bar.setSize(sf::Vector2f(APP_WIDTH, 100));
 	Bar.setFillColor(UIThemeColour);
+	Bar.setOutlineColor(sf::Color(35, 35, 35));
+	Bar.setOutlineThickness(2);
 	Bar.setPosition(0, 1080 - 100);
 	for (int i = 0; i < MAXBUTTONS; i++) {
 		buttons.push_back(sf::RectangleShape(sf::Vector2f(100, 100)));
@@ -18,7 +20,7 @@ UITaskBar::UITaskBar() {
 		auto &button = buttons.back();
 		auto &action = actions.back();
 		button.setOutlineThickness(1.5);
-		button.setOutlineColor(sf::Color::Black);
+		button.setOutlineColor(sf::Color(35, 35, 35));
 		button.setPosition(i * 106, APP_BOTTOM - 100);
 
 		action = [&] {};
